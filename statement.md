@@ -127,7 +127,7 @@ def dire_bonjour(prenom):
 
 ## Question 11 : Les boucles
 
-?[Quelle est la différence entre une boucle `for` et `while` ?
+?[Quelle est la différence entre une boucle `for` et `while` ?]
 - [ ] Le `for` ne peut pas s'utiliser dans une fonction, le `while` si.
 - [ ] Le `for` ne peut pas boucler sur des listes, le `while` si.
 - [X] Le `for` s'utilise pour un nombre connu d'itérations, le `while` avec une condition d'arrêt particulière.
@@ -176,6 +176,7 @@ print(f.printline())
 - [ ] `f.free()`
 - [ ] `f = null`
 
+## Vous pouvez tester du code ici
 
 ```python runnable
 # Vous pouvez tester ici
