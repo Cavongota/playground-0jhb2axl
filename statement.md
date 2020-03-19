@@ -163,9 +163,9 @@ print(f.printline())
 ```
 
 ?[Quel fragment est valide pour lire et afficher la première ligne du fichier `convention.md` ?]
-- [ ] Fragment 4
-- [ ] Fragment 4
-- [X] Fragment 4
+- [ ] Fragment 1
+- [ ] Fragment 2
+- [X] Fragment 3
 - [ ] Fragment 4
 
 ## Question 14 : Libération des ressources
